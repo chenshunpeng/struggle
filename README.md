@@ -1,2 +1,2 @@
-# -
-School of information science and technology, Shijiazhuang Railway University, focusing on computer science and technology
+# 19级
+石家庄铁道大学信息科学与技术学院，主修计算机科学与技术
